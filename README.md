@@ -4,7 +4,7 @@
 ## Siempre hambriento
 Escribe una función a la que se le asigne un arreglo, y cada vez que el valor sea "comida" debería mostrar "delicioso"en la consola. Si "comida" no estaba presente en el arreglo, que la consola registre "Tengo hambre" una vez.
 ```javascript
-function siempreHambriento(arr) {
+function alwaysHungry(arr) {
     // tu código aquí 
 }
    
